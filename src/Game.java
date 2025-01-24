@@ -7,6 +7,6 @@ public class Game {
         // Task 5: Verifica daca litera introdusa exista in cuvant si inlocuieste steluta din Array la indexul respectiv
         // Task 6: Introdu un loop care repeta de la task-ul 4
         System.out.println(">>>>>>> Welcome to Hangman! <<<<<<<");
-
+        String word = "airplane";
     }
 }
